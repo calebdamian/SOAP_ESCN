@@ -1,0 +1,7 @@
+C:\Users\laboratorio\source\repos\WCF_ES_CN\bin\WCF_ES_CN.dll.config
+C:\Users\laboratorio\source\repos\WCF_ES_CN\bin\WCF_ES_CN.dll
+C:\Users\laboratorio\source\repos\WCF_ES_CN\bin\WCF_ES_CN.pdb
+C:\Users\laboratorio\source\repos\WCF_ES_CN\obj\Debug\WCF_ES_CN.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\WCF_ES_CN\obj\Debug\WCF_ES_CN.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\WCF_ES_CN\obj\Debug\WCF_ES_CN.dll
+C:\Users\laboratorio\source\repos\WCF_ES_CN\obj\Debug\WCF_ES_CN.pdb

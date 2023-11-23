@@ -1,0 +1,10 @@
+C:\Users\laboratorio\source\repos\ESCN_Forms\bin\Debug\ESCN_Forms.exe.config
+C:\Users\laboratorio\source\repos\ESCN_Forms\bin\Debug\ESCN_Forms.exe
+C:\Users\laboratorio\source\repos\ESCN_Forms\bin\Debug\ESCN_Forms.pdb
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.Form1.resources
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.Properties.Resources.resources
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.exe
+C:\Users\laboratorio\source\repos\ESCN_Forms\obj\Debug\ESCN_Forms.pdb
